@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="album_view">Selecione uma pasta</string>
+    <string name="image_view">Toque para selecionar fotos</string>
+
+    <string name="add">Adicionar</string>
+    <string name="selected">foto(s) selecionada(s)</string>
+    <string name="limit_exceeded">É possível selecionar no máximo %d fotos!</string>
+
+    <string name="permission_denied">Permissão negada!</string>
+    <string name="permission_denied_albums">Por favor, permita o acesso à fotos, mídias e arquivos em seu dispositivo para visualizar álbuns de fotos</string>
+    <string name="permission_denied_images">Por favor, permita o acesso à fotos, mídias e arquivos em seu dispositivo para visualizar imagens.</string>
+</resources>
